@@ -38,7 +38,7 @@ Create **ONE** query for each of the tasks below. The queries should be saved in
 
 
 ## Submission
-1. Create a commit with the message "Completed the Movie Mayhem II Assignment"
+1. Create a commit with the message "Completed the Movie Mayhem III Assignment"
 2. Push to GitHub
 3. Submit the URL to your GitHub Repository in BrightSpace
 
