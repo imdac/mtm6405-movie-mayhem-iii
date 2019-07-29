@@ -1,7 +1,7 @@
 # Movie Mayhem III
 
 ## Objective
-For this assignment you will be demonstrating your skills and understanding of SQL Queries and the SELECT statement by creating queries retrieves data from the Movie Mayhem database.
+For this assignment you will be demonstrating your skills and understanding of SQL Queries, JOINS and Aggregate Functions by creating queries retrieves data from the Movie Mayhem database.
 
 ## Database
 For this assignment you will be using the Movie Mayhem database which is provided with repository as the [Movie Mayhem SQL File](movie_mayhem.sql).
